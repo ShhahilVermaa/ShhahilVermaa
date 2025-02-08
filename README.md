@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shhahil_vermaaa" target="blank"><img src="https://img.shields.io/twitter/follow/shhahil_vermaaa?logo=twitter&style=for-the-badge" alt="shhahil_vermaaa" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
